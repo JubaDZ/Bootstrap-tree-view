@@ -2,7 +2,7 @@
 Bootstrap-tree-view
 Features
 --------
-* Get list dir and files *function `Recursive` *
+* Get list dir and files *function `Recursive`*
 * extend
 * `Bootstrap` framework
 
